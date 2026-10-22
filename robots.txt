@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bloxkeep.github.io/sitemap.xml
+Sitemap: https://bloxkeep.github.io/roblox-account-manager/sitemap.xml
